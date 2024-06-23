@@ -1,0 +1,11 @@
+#root {
+    background-color: light-dark(#fdfdfd, var(--mantine-color-dark-7));
+}
+
+#footer {
+    background-color: light-dark(white, var(--mantine-color-dark-5));
+}
+
+html, body {
+    background-color: light-dark(white, var(--mantine-color-dark-6)) !important;
+}

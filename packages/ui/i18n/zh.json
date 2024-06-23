@@ -1,0 +1,64 @@
+{
+    "header": {
+      "mainpage": "主页",
+      "maintenance": "维护"
+    },
+    "submission": {
+      "submission_result": "评测结果",
+      "total": "统计",
+      "subtask": "子任务 #{{id}}",
+      "points": "{{score}} 分",
+      "time_crest": "Time crest"
+    },
+    "problem": {
+      "syncsubmit": "同步提交",
+      "directsubmit": "直接提交",
+      "histroyscore": "历史成绩",
+      "historysubmit": "历史提交",
+      "originlink": "原始链接",
+      "submit": "远程提交",
+      "cph": "跳转至CPH",
+      "return": "返回题目",
+      "timelimit": "时间限制",
+      "memorylimit": "空间限制",
+      "difficult": "难度",
+      "platform": "平台",
+      "submitID": "提交ID",
+      "submitByIDDescription": "RID / link 均可",
+      "simpleGroup": "样例组",
+      "outputSample": "输出样例",
+      "inSample": "输入样例",
+      "simple": "样例",
+      "algorithm": "{{status}}算法标签",
+      "history-score": "历史成绩"
+    },
+    "platform": {
+      "luogu": "洛谷"
+    },
+    "sync": "同步",
+    "syncwithsubmission": "通过记录同步",
+    "copy": "复制",
+    "Collapse": "收起",
+    "Expand": "展开",
+    "changelanguage": "更换语言",
+    "Category": "分类",
+    "loginpage": {
+      "AtleatOneNumber": "至少一个数字",
+      "AtleatOneSmallNumber": "至少一个小写字母",
+      "AtleatOneBigNumber": "至少一个大写字母（可选）",
+      "AtleatoneSpecial": "至少一个特殊字符（可选）",
+      "unamelenleast": "用户名需要至少 4 位！",
+      "unamelenup": "用户名长度不得大于36",
+      "accountprepared": "🎉 All Done! 您的帐号已经准备就绪。"
+    },
+    "ukeerror": "未知错误",
+    "At least 8 letter": "最少8字符",
+    "At most 36 letter": "最多36字符",
+    "At_least_8_letter": "最少 8 字符",
+    "At_most_36_letter": "最多36字符",
+    "Copy": "复制",
+    "SearchProblem": "搜索题目",
+    "SearchProblemDescription": "搜索题目。支持题目标题 / 题目内容 / 算法标签",
+    "Choose Version": "选择版本",
+    "nocontent": "【无内容】"
+}
